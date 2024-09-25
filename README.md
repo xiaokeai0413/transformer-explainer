@@ -38,10 +38,6 @@ npm run dev
 
 Then, on your web browser, access http://localhost:5173.
 
-## Credits
-
-Transformer Explainer was created by <a href="https://aereeeee.github.io/" target="_blank">Aeree Cho</a>, <a href="https://www.linkedin.com/in/chaeyeonggracekim/" target="_blank">Grace C. Kim</a>, <a href="https://alexkarpekov.com/" target="_blank">Alexander Karpekov</a>, <a href="https://alechelbling.com/" target="_blank">Alec Helbling</a>, <a href="https://zijie.wang/" target="_blank">Jay Wang</a>, <a href="https://seongmin.xyz/" target="_blank">Seongmin Lee</a>, <a href="https://bhoov.com/" target="_blank">Benjamin Hoover</a>, and <a href="https://poloclub.github.io/polochau/" target="_blank">Polo Chau</a> at the Georgia Institute of Technology.
-
 ## Citation
 
 ```bibTeX
@@ -58,9 +54,6 @@ Transformer Explainer was created by <a href="https://aereeeee.github.io/" targe
 
 The software is available under the [MIT License](https://github.com/poloclub/transformer-explainer/blob/main/LICENSE).
 
-## Contact
-
-If you have any questions, feel free to [open an issue](https://github.com/poloclub/transformer-explainer/issues/new/choose) or contact [Aeree Cho](https://aereeeee.github.io/) or any of the contributors listed above.
 
 ## More AI explainers to check out
 
